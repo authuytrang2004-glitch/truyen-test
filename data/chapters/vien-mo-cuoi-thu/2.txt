@@ -1,5 +1,0 @@
-Bến sông vắng người vào những ngày cuối thu, chỉ còn lại vài chiếc thuyền nan buộc hờ vào cọc gỗ, lắc lư theo từng đợt sóng nhỏ.
-
-Người lạ xuất hiện không mang theo hành lý, chỉ có một cuốn sổ tay sờn gáy và đôi mắt như đang tìm kiếm điều gì đó đã mất từ rất lâu.
-
-Bạn có thể xóa hai chương mẫu này bất cứ lúc nào và thay bằng chương thật — chỉ cần giữ đúng đường dẫn tệp được khai báo trong novels.json.
